@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi There! 😊</h2>
-<div align="center">I am currently a freshman at Korea University. I'm Interested in Artificial Intelligence.</div>
+<div align="center">I am currently a freshman at Korea University. I'm Interested in Artificial Intelligence, Blockchain.</div>
 <h3 align="center">Stats 📈</h2>
 
 <br>
