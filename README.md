@@ -1,15 +1,13 @@
 
-<h3 align="center">Hi There! 😊</h2>
+<h2 align="center">Hi There! 😊</h2>
 <div align="center">I am currently a sophomore at Korea University.</div>
-<h3 align="center">Stats 📈</h2>
-
-<br>
+<h3 align="center">Stats 📈</h3>
 <div align="center">
-   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sori2&exclude_repo=sori2.github.io&layout=compact&theme=dark" />
+   <a href="https://github.com/sori2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sori2&exclude_repo=sori2.github.io&layout=compact&theme=dark" alt="Top Languages" />
   </a>
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=sori2&theme=dark&show_icons=true" width="42%" />
+  <a href="https://github.com/sori2">
+    <img src="https://github-readme-stats.vercel.app/api?username=sori2&theme=dark&show_icons=true" width="42%" alt="GitHub Stats" />
   </a>
 </div>
 <!--
